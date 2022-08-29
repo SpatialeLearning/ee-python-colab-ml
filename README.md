@@ -1,6 +1,6 @@
 # ee-python-colab
 
-Learn geospatial data science with Python and earth engine cloud computing. 
+Learn geospatial data science with Python, Google Colab and Earth Engine.  
  
  
 To watch more video tutorials: https://www.youtube.com/playlist?list=PLyJZ14_CYRrC9IElaGRBFKOG7fpH61wVh
