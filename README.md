@@ -1,4 +1,4 @@
-# ee-python-colab
+# ee-python-colab-ml
 
 Learn geospatial data science with Python, Google Colab and Earth Engine.  
  
